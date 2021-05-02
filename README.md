@@ -14,6 +14,15 @@ Style="max-width:100%:">
 Style="max-width:100%:">
 </a>
 
+## Skills
+<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+Style="max-width:100%:">
+<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
+Style="max-width:100%:">
+<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+Style="max-width:100%:">
+<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+Style="max-width:100%:">
 
 <!--
 **rafaeldias1991/rafaeldias1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
