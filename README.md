@@ -11,7 +11,13 @@ Style="max-width:100%:">
 ## Skills
 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
 Style="max-width:100%:">
-<img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"
+Style="max-width:100%:">
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+Style="max-width:100%:">
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg"
+Style="max-width:100%:">
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg"
 Style="max-width:100%:">
 
 
