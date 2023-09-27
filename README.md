@@ -8,12 +8,6 @@ Style="max-width:100%:">
 </a>
 
 
-
-<a href="https://www.instagram.com/rafael.diasz/">
-<img align="center" height="30" width="30" src="https://image.flaticon.com/icons/png/128/1384/1384063.png"
-Style="max-width:100%:">
-</a>
-
 ## Skills
 <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
 Style="max-width:100%:">
